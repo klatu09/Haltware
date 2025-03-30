@@ -4,7 +4,7 @@ This Python script runs automatically when the computer starts and prevents a sp
 I increased the sleep time to reduce the CPU and the polling frequency when the app desired or inputted in the code is not in the task manager.
 
 
-This is an improved version of the script of programming-matrix. 
+This is an improved version of the script of programming-matrix.
 
 youtube video: https://www.youtube.com/watch?v=SMIvPE-37-0
 
