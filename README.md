@@ -32,6 +32,10 @@ I am not responsible for any of your actions. This GitHub repository is made for
 💀 Crafted by **K1atu** 
 
 ## How to use?
-1. First convert the py file into an executable file
-2. Paste the exe file into this directory "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup" - this ensures that it runs every after window is open
+
+# 1. First convert the py file into an executable file
+# 1.1 pip install pyinstaller
+# 1.2 cd to directory
+# 1.3 pyinstaller --noconsole --onefile "python file"
+# 2. Paste the exe file into this directory "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup" - this ensures that it runs every after window is open
 
