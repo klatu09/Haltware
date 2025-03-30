@@ -1,7 +1,7 @@
 import time
 import ctypes 
 
-ApplicationToClose = "Application Name.exe"
+ApplicationToClose = "Notepad" # sample application to close
 
 while True:
     window = ctypes.create_string_buffer(255)
