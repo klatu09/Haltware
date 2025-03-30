@@ -20,8 +20,8 @@ youtube video: https://www.youtube.com/watch?v=SMIvPE-37-0
 ✦ Author: K1atu
 ✦ Motto: "you get some, you hack some"
 
-# StealthCord
-A lightweight keylogger with Discord webhook integration. Silent. Untraceable. Efficient.
+# Haltware
+Silent. A bit Untraceable. Efficient.
 
 
 # DISCLAIMER 
@@ -30,3 +30,8 @@ I am not responsible for any of your actions. This GitHub repository is made for
 
 ##  Signature  
 💀 Crafted by **K1atu** 
+
+## How to use?
+1. First convert the py file into an executable file
+2. Paste the exe file into this directory "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup" - this ensures that it runs every after window is open
+
