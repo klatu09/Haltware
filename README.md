@@ -34,8 +34,8 @@ I am not responsible for any of your actions. This GitHub repository is made for
 ## How to use?
 
  1. First convert the py file into an executable file
- 1.1 pip install pyinstaller
- 1.2 cd to directory, in my case i put it into my desktop
- 1.3 pyinstaller --noconsole --onefile "python file"
- 2. Paste the exe file into this directory "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup" - this ensures that it runs every after window is open
+ 2. in cmd run the ff command, pip install pyinstaller
+ 3. cd to directory, in my case i put it into my desktop
+ 4. pyinstaller --noconsole --onefile "python file"
+ 5. Paste the exe file into this directory "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup" - this ensures that it runs every after window is open
 
